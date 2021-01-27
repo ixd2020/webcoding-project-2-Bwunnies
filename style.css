@@ -11,6 +11,44 @@ h1 {
 }
 
 
-.center {
-  text-align:center;
+.goo {
+  font-famiily: sans-serif;
+}
+
+.left {
+  font-size: 27px;
+  color: #535353;
+}
+
+.small {
+  font-size: 12px;
+  color: #4A4D51;
+}
+
+.outer-div {
+  width: 100%;
+  text-align: center;
+  background-color: #0666a3
+}
+
+.inner-div {
+  display: inline-block;
+  width: 650px;
+  margin: 0 auto;
+  padding: 3px;
+  font-size: 27px;
+  color: #535353;
+  text-align: left;
+  background-color: #8ebf42
+}
+
+
+.header {
+  display: inline-block;
+  width: 650px;
+  margin: 0 auto;
+  padding: 3px;
+  color: #6D7174;
+  background-color: #8ebf42;
+  text-align: left;
 }
