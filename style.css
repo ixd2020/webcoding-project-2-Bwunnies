@@ -1,7 +1,7 @@
 /* CSS files add styling rules to your content */
 
-body {
-  font-family: helvetica, arial, sans-serif;
+*{
+  font-family: 'Roboto', sans-serif;
   margin: 2em;
 }
 
@@ -9,6 +9,7 @@ h1 {
   font-style: italic;
   color: #373fff;
 }
+
 
 
 .goo {
@@ -21,6 +22,12 @@ h1 {
 }
 
 .small {
+  display: inline-block;
+  width: 650px;
+  margin: 0 auto;
+  padding: 3px;
+  color: #6D7174;
+  text-align: left;
   font-size: 12px;
   color: #4A4D51;
 }
@@ -28,7 +35,58 @@ h1 {
 .outer-div {
   width: 100%;
   text-align: center;
-  background-color: #0666a3
+  
+}
+
+.outer-div2 {
+  width: 100%;
+
+}
+
+
+
+.inner-div2 {
+  display: inline-block;
+  width: 23%;
+  float: left;
+  margin: 0 auto;
+  padding: 3px;
+  text-align: left;
+
+}
+
+.inner-div5 {
+  display: inline-block;
+  width: 23%;
+  float: left;
+  margin: 0 auto;
+  padding: 3px;
+  text-align: right;
+
+}
+
+.color {
+  color: #64686C;
+}
+
+.inner-div3 {
+  display: inline-block;
+  width: 28%;
+  float: right;
+  margin: 0 auto;
+  padding: 3px;
+  text-align: left;
+
+}
+
+.middle {
+  display: inline-block;
+  width: 15%;
+  float: right;
+  margin: 0 auto;
+  padding: 3px;
+  text-align: left;
+ 
 }
 
 .inner-div {
@@ -39,7 +97,7 @@ h1 {
   font-size: 27px;
   color: #535353;
   text-align: left;
-  background-color: #8ebf42
+
 }
 
 
@@ -49,6 +107,11 @@ h1 {
   margin: 0 auto;
   padding: 3px;
   color: #6D7174;
-  background-color: #8ebf42;
+
   text-align: left;
+}
+
+
+.size {
+  padding-right: 30px;
 }
