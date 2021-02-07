@@ -13,6 +13,7 @@ h1 {
 .as {
   padding: 0px;
   margin: 0px;
+  font-color: blue;
 }
 
 
@@ -268,6 +269,14 @@ h1 {
   text-align:center;
 }
 
+.home-para2 {
+  display: inline-block;
+  margin: 0 auto;
+  padding: 0auto;
+  width: 100%;
+  background-color: #0666a3;
+  text-align:left;
+}
 
 
 .center2 {
@@ -312,4 +321,124 @@ h1 {
   color: #5F6368;
   text-align: left;
   background-color: pink;
+}
+
+
+.home-halfleft {
+  display: inline-block;
+  margin: 0 auto;
+  padding: 0auto;
+  width: 50%;
+  float:left;
+  background-color: pink;
+  text-align:left;
+}
+
+.home-halfright {
+  display: inline-block;
+  margin: 0 auto;
+  padding: 0auto;
+  width: 50%;
+  float:right;
+  background-color: pink;
+  text-align:left;
+}
+
+
+.word-header {
+  float:left;
+  width: 47%;
+  margin: 0 auto;
+  padding: 0auto;
+  color: #424242;
+  text-align:left;
+  background-color: pink;
+}
+
+.word-header2 {
+  float:right;
+  width: 50%;
+  margin: 0 auto;
+  padding: 0auto;
+  color: #424242;
+  text-align:right;
+  background-color: pink;
+}
+
+.word-header3 {
+  float:right;
+  width: 50%;
+  margin: 0 auto;
+  padding: 0auto;
+  color: #424242;
+  text-align:left;
+  background-color: yellow;
+}
+
+
+.dates {
+  font-size: 10px;
+  color: #666A6E;
+}
+
+.title {
+  font-size: 20px;
+  color: #414549;
+}
+
+.para {
+  font-size: 15px;
+  color: #414549;
+}
+
+.box {
+  border: 2px solid #F0F3F4;
+  border-width: 20px;
+  background-color: #F0F3F4;
+  width:47%;
+  
+}
+
+.space {
+  display: inline-block;
+  width: 3%;
+  float: right;
+  margin: 0 auto;
+  padding: 3px;
+  text-align: right;
+  background-color: pink;
+}
+
+.nospace {
+  margin: 0 auto;
+  padding: 0 auto;
+}
+
+.rightpic {
+  margin: 0 auto;
+  padding: 0 auto;
+  text-align: right;
+  float: right;
+}
+
+
+.word-pic1 {
+  height: 400px;
+}
+
+.spacepic {
+  display: inline-block;
+  width: 15%;
+  float: center;
+  margin: 0 auto;
+  padding: 3px;
+  padding-left: 100px;
+  text-align: center;
+  background-color: pink;
+}
+
+.fonty {
+  font-family: monospace;
+  font-size: 15px;
+  color: #6E7275;
 }
