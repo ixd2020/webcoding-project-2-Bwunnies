@@ -49,7 +49,7 @@ h1 {
   padding: 0 auto;
   width: 100%;
   text-align: center;
-  background-color: pink;
+  
 }
 
 
@@ -61,7 +61,7 @@ h1 {
   margin: 0 auto;
   padding: 0px;
   text-align: left;
-  background-color: yellow;
+  
 }
 
 .inner-div5 {
@@ -85,7 +85,7 @@ h1 {
   margin: 0 auto;
   padding: 3px;
   text-align: left;
-  background-color: yellow;
+  
 }
 
 .middle {
@@ -130,7 +130,7 @@ h1 {
   width: 100%;
   margin: 0 auto;
   padding: 0 auto;
-  background-color: #0666a3;
+  
 }
 
 .picpic {
@@ -145,7 +145,7 @@ h1 {
   padding: 3px;
   color: #6D7174;
   text-align: left;
-  background-color: pink;
+  
 }
 
 
@@ -157,7 +157,7 @@ h1 {
   width: 5%;
   text-align:center;
   float: right;
-  background-color: yellow;
+  
 }
 
 .center1 {
@@ -170,7 +170,7 @@ h1 {
   float: center;
   text-align: center;
   font-family: 'Arial', sans-serif;
-  background-color: blue;
+  
 }
 
 
@@ -179,7 +179,7 @@ h1 {
   margin: 0 auto;
   padding: 0 auto;
   width: 100%;
-  background-color: #0666a3;
+  
   text-align:left;
 }
 
@@ -233,7 +233,7 @@ h1 {
   margin: 0 auto;
   padding: 3px;
   text-align: left;
-  background-color: yellow;
+  
   font-size: 17px;
 }
 
@@ -255,7 +255,7 @@ h1 {
   padding: 3px;
   padding-top: 46px;
   text-align: left;
-  background-color: yellow;
+  
   font-size: 15px;
   color: #5F6368;
 }
@@ -265,7 +265,7 @@ h1 {
   margin: 0 auto;
   padding: 0auto;
   width: 100%;
-  background-color: #0666a3;
+  
   text-align:center;
 }
 
@@ -274,7 +274,7 @@ h1 {
   margin: 0 auto;
   padding: 0auto;
   width: 100%;
-  background-color: #0666a3;
+  
   text-align:left;
 }
 
@@ -289,7 +289,7 @@ h1 {
   float: center;
   text-align: center;
   font-family: 'Arial', sans-serif;
-  background-color: blue;
+  
 }
 
 .home-nav {
@@ -299,7 +299,7 @@ h1 {
   padding: 0 auto;
   color: #5F6368;
   text-align: center;
-  background-color: pink;
+  
 }
 
 .centering {
@@ -320,7 +320,7 @@ h1 {
   padding: 0 auto;
   color: #5F6368;
   text-align: left;
-  background-color: pink;
+  
 }
 
 
@@ -330,7 +330,7 @@ h1 {
   padding: 0auto;
   width: 50%;
   float:left;
-  background-color: pink;
+  
   text-align:left;
 }
 
@@ -340,7 +340,7 @@ h1 {
   padding: 0auto;
   width: 50%;
   float:right;
-  background-color: pink;
+  
   text-align:left;
 }
 
@@ -352,7 +352,7 @@ h1 {
   padding: 0auto;
   color: #424242;
   text-align:left;
-  background-color: pink;
+  
 }
 
 .word-header2 {
@@ -362,7 +362,7 @@ h1 {
   padding: 0auto;
   color: #424242;
   text-align:right;
-  background-color: pink;
+  
 }
 
 .word-header3 {
@@ -372,7 +372,7 @@ h1 {
   padding: 0 auto; 
   color: #424242;
   text-align:left;
-  background-color: yellow;
+  
 }
 
 
@@ -394,7 +394,6 @@ h1 {
 .box {
   border: 2px solid #F0F3F4;
   border-width: 20px;
-  background-color: #F0F3F4;
   width:47%;
   
 }
@@ -406,7 +405,7 @@ h1 {
   margin: 0 auto;
   padding: 3px;
   text-align: right;
-  background-color: pink;
+  
 }
 
 .nospace {
@@ -434,7 +433,7 @@ h1 {
   padding: 3px;
   padding-left: 100px;
   text-align: center;
-  background-color: pink;
+  
 }
 
 .fonty {
@@ -444,7 +443,7 @@ h1 {
 }
 
 .box2 {
-  border: 0.2px solid pink;
+  border: 0.2px solid #F2F2F2;
   border-width: 20px;
   margin: 5px;
   width:50%;
@@ -457,10 +456,10 @@ h1 {
   width: 50%;
   margin: 0 auto;
   padding: 0 auto;
-  border: 2px solid pink; 
+  border: 2px solid #F2F2F2; 
   color: #424242;
   text-align:left;
-  background-color: yellow;
+  
 }
 
 .word-header7 {
@@ -470,7 +469,7 @@ h1 {
   padding: 0auto;
   color: #424242;
   text-align:right;
-  background-color: pink;
+  
 }
 
 .word-headerslidingside {
@@ -480,7 +479,7 @@ h1 {
   padding: 0auto;
   color: #424242;
   text-align:left;
-  background-color: pink;
+  
 }
 
 .slidingside-header1 {
@@ -490,7 +489,7 @@ h1 {
   padding: 0 auto;
   color: #424242;
   text-align: right;
-  background-color: pink;
+  
 }
 
 
@@ -501,7 +500,7 @@ h1 {
   padding: 0 auto;
   color: #424242;
   text-align: left;
-  background-color: yellow;
+ 
 }
 
 .space-left {
@@ -511,18 +510,18 @@ h1 {
   margin: 0 auto;
   padding: 3px;
   text-align: left;
-  background-color: pink;
+  
 }
 
 .slidingside-border {
   float: left;
   width: 25%;
-  border: 2px solid pink;
+  border: 2px solid #F2F2F2;
   margin: 0 auto;
   padding: 0 auto;
   color: #424242;
   text-align: left;
-  background-color: yellow;
+  
 }
 
 
@@ -533,7 +532,7 @@ h1 {
   margin: 0 auto;
   padding: 3px;
   text-align: left;
-  background-color: pink;
+  
 }
 
 
@@ -544,7 +543,7 @@ h1 {
   padding: 0 auto;
   color: #424242;
   text-align:left;
-  background-color: yellow;
+  
 }
 
 .three-pic-l {
@@ -554,7 +553,7 @@ h1 {
   padding: 0 auto;
   color: #424242;
   text-align:left;
-  background-color: yellow;
+  
 }
 
 .three-pic-c {
@@ -564,7 +563,7 @@ h1 {
   padding: 0 auto;
   color: #424242;
   text-align:left;
-  background-color: yellow;
+  
 }
 
 .three-pic-r {
@@ -574,7 +573,7 @@ h1 {
   padding: 0 auto;
   color: #424242;
   text-align:left;
-  background-color: yellow;
+  
 }
 
 .picy {
@@ -590,7 +589,7 @@ h1 {
   padding: 0 auto;
   color: #424242;
   text-align:right;
-  background-color: yellow;
+  
 }
 
 .re-header-c {
@@ -602,7 +601,7 @@ h1 {
   padding-top: 5px;
   text-align: center;
   font-size: 20px;
-  background-color: yellow;
+  
 }
 
 .re-header-r {
@@ -613,7 +612,7 @@ h1 {
   position: relative;
   top: -5.4vw;
   color: #424242;
-  background-color: yellow;
+  
 }
 
 .re-line-c {
@@ -627,30 +626,32 @@ h1 {
   color: #424242;
   text-align: center;
   font-size: 20px;
-  background-color: yellow;
+  
 }
 
 
 
 .re-middle-r {
+  display: inline-block;
   float:right;
   width: 67%;
   margin: 0 auto;
   padding: 0 auto;  
   color: #424242;
   text-align: right;
-  background-color: yellow;
+  
 }
 
 
 .re-middle-l {
+  display: inline-block;
   float:left;
   width: 27%;
   margin: 0 auto;
   padding: 0 auto;
   color: #424242;
   text-align:left;
-  background-color: yellow;
+  
 }
 
 
@@ -676,38 +677,50 @@ h1 {
 }
 
 .re-mid-r {
+  display: inline-block;
   float: right;
-  width: 25%;
+  width: 29.5%;
   margin: 0 auto;
   padding: 0 auto;
   color: #424242;
   text-align: left;
-  background-color: yellow;
+  
 }
 
 
 .re-mid-c {
+  display: inline-block;
   float:center;
-  width: 25%;
+  width: 29.5%;
   margin: 0 auto;
   padding: 0 auto;
   color: #424242;
   text-align: left;
-  background-color: yellow;  
+  
 }
 
 
 .re-mid-l {
+  display: inline-block;
   float:left;
-  width: 25%;
+  width: 29.5%;
   margin: 0 auto;
   padding: 0 auto;
   color: #424242;
   text-align: left;
-  background-color: yellow;  
+   
 }
 
 
 .totheleft {
-  text-align: left;
+  text-align: center;
+}
+
+
+.article1:hover {
+  box-shadow: 0 0.3vw 0.6vw 0 rgb(153, 153, 153);
+}
+
+.leggo {
+  text-decoration: none;
 }
