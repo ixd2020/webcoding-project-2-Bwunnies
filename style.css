@@ -482,3 +482,68 @@ h1 {
   text-align:left;
   background-color: pink;
 }
+
+.slidingside-header1 {
+  float: right;
+  width: 9%;
+  margin: 0 auto;
+  padding: 0 auto;
+  color: #424242;
+  text-align: right;
+  background-color: pink;
+}
+
+
+.slidingside-header2 {
+  float: left;
+  width: 25%;
+  margin: 0 auto;
+  padding: 0 auto;
+  color: #424242;
+  text-align: left;
+  background-color: yellow;
+}
+
+.space-left {
+  display: inline-block;
+  width: 8%;
+  float: left;
+  margin: 0 auto;
+  padding: 3px;
+  text-align: left;
+  background-color: pink;
+}
+
+.slidingside-border {
+  float: left;
+  width: 25%;
+  border: 2px solid pink;
+  margin: 0 auto;
+  padding: 0 auto;
+  color: #424242;
+  text-align: left;
+  background-color: yellow;
+}
+
+
+.space-left2 {
+  display: inline-block;
+  width: 2%;
+  float: left;
+  margin: 0 auto;
+  padding: 3px;
+  text-align: left;
+  background-color: pink;
+}
+
+
+.word-headerleft {
+  float:left;
+  width: 47%;
+  margin: 0 auto;
+  padding: 0 auto;
+  color: #424242;
+  text-align:left;
+  background-color: yellow;
+}
+
