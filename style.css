@@ -655,7 +655,14 @@ h1 {
 }
 
 
+.leftside {
+  float: left;
+  text-align: left;
+}
 
 
 
-
+.position {
+  position: relative;
+  rightt: -20vw;
+}
