@@ -547,3 +547,115 @@ h1 {
   background-color: yellow;
 }
 
+.three-pic-l {
+  float:left;
+  width: 30%;
+  margin: 0 auto;
+  padding: 0 auto;
+  color: #424242;
+  text-align:left;
+  background-color: yellow;
+}
+
+.three-pic-c {
+  float: center;
+  width: 30%;
+  margin: 0 auto;
+  padding: 0 auto;
+  color: #424242;
+  text-align:left;
+  background-color: yellow;
+}
+
+.three-pic-r {
+  float: right;
+  width: 30%;
+  margin: 0 auto;
+  padding: 0 auto;
+  color: #424242;
+  text-align:left;
+  background-color: yellow;
+}
+
+.picy {
+  position: relative;
+  top:-8.5vw;
+}
+
+
+.re-header-l {
+  float:left;
+  width: 15%;
+  margin: 0 auto;
+  padding: 0 auto;
+  color: #424242;
+  text-align:right;
+  background-color: yellow;
+}
+
+.re-header-c {
+  float: center;
+  width: 40%;
+  margin: 0 auto;
+  padding: 0 auto;
+  color: #424242;
+  padding-top: 5px;
+  text-align: center;
+  font-size: 20px;
+  background-color: yellow;
+}
+
+.re-header-r {
+  float: right;
+  width: 3%;
+  margin: 0 auto;
+  padding: 0 auto;
+  position: relative;
+  top: -5.4vw;
+  color: #424242;
+  background-color: yellow;
+}
+
+.re-line-c {
+  float: center;
+  width: 9%;
+  margin: 0 auto;
+  padding: 0 auto;
+  position: relative;
+  top: -0.7vw;
+  left: 0.5vw;
+  color: #424242;
+  text-align: center;
+  font-size: 20px;
+  background-color: yellow;
+}
+
+
+
+.re-middle-r {
+  float:right;
+  width: 67%;
+  margin: 0 auto;
+  padding: 0 auto;  
+  color: #424242;
+  text-align: right;
+  background-color: yellow;
+}
+
+
+.re-middle-l {
+  float:left;
+  width: 27%;
+  margin: 0 auto;
+  padding: 0 auto;
+  border: 2px solid pink;
+  color: #424242;
+  text-align:left;
+  background-color: yellow;
+}
+
+
+
+
+
+
