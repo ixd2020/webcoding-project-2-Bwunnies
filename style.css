@@ -648,7 +648,6 @@ h1 {
   width: 27%;
   margin: 0 auto;
   padding: 0 auto;
-  border: 2px solid pink;
   color: #424242;
   text-align:left;
   background-color: yellow;
@@ -663,6 +662,52 @@ h1 {
 
 
 .position {
+  padding: 0 auto;
+  margin: 0 auto;
   position: relative;
-  rightt: -20vw;
+  left: -4vw;
+}
+
+.word-p {
+  padding: 0 auto;
+  margin: 0 auto;
+  position: relative;
+  left: -0.5vw;
+}
+
+.re-mid-r {
+  float: right;
+  width: 25%;
+  margin: 0 auto;
+  padding: 0 auto;
+  color: #424242;
+  text-align: left;
+  background-color: yellow;
+}
+
+
+.re-mid-c {
+  float:center;
+  width: 25%;
+  margin: 0 auto;
+  padding: 0 auto;
+  color: #424242;
+  text-align: left;
+  background-color: yellow;  
+}
+
+
+.re-mid-l {
+  float:left;
+  width: 25%;
+  margin: 0 auto;
+  padding: 0 auto;
+  color: #424242;
+  text-align: left;
+  background-color: yellow;  
+}
+
+
+.totheleft {
+  text-align: left;
 }
