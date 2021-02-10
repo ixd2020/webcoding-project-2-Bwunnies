@@ -719,6 +719,7 @@ h1 {
 
 .article1:hover {
   box-shadow: 0 0.3vw 0.6vw 0 rgb(153, 153, 153);
+  margin: 10px;
 }
 
 .leggo {
