@@ -233,7 +233,6 @@ h1 {
   margin: 0 auto;
   padding: 3px;
   text-align: left;
-  
   font-size: 17px;
 }
 
@@ -724,3 +723,13 @@ h1 {
 .leggo {
   text-decoration: none;
 }
+
+
+@media screen and (max-width: 600px) {
+  .pls {width: 90%}
+  .help {width: 100%}
+  .gg {width: 50%}
+  .no {width: 20%}
+}
+
+
